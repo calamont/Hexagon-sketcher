@@ -3,7 +3,7 @@ Processing sketch which converts an image into tesselating hexagon objects, whic
 Can vary the size of the hexagons to give a random patchy look. 
 
 #1
-![tame](calamont.github.com/Hexagon-sketcher/images/eye_processed_1.jpg)
+![tame](https://github.com/calamont/Hexagon-sketcher/blob/master/images/eye_processed_1.jpg)
 
 
 #2
